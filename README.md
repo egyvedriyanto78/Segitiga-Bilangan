@@ -1,1 +1,1 @@
-# Segitiga-Bilangan 11111222
+# Segitiga-Bilangan 1111122
