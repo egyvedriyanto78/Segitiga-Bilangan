@@ -1,1 +1,1 @@
-# Segitiga-Bilangan 11
+# Segitiga-Bilangan 1
