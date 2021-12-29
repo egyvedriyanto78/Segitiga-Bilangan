@@ -1,1 +1,2 @@
 # Segitiga-Bilangan 
+ABCDEFGHIJK
