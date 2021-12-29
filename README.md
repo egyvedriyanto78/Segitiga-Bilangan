@@ -1,2 +1,2 @@
 # Segitiga-Bilangan 
-ABC
+AB
