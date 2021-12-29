@@ -1,2 +1,2 @@
 # Segitiga-Bilangan 
-ABCDEFGHI
+ABCDEFGH
