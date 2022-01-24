@@ -1,3 +1,3 @@
 # Segitiga-Bilangan 
 
-abcde
+abcd
