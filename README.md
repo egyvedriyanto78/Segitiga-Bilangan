@@ -1,2 +1,3 @@
 # Segitiga-Bilangan 
 
+abcdefg
