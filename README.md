@@ -1,3 +1,3 @@
 # Segitiga-Bilangan 
-1234567
+123456
 
