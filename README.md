@@ -1,3 +1,3 @@
 # Segitiga-Bilangan 
-123
+12
 
