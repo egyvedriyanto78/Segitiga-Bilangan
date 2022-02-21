@@ -1,3 +1,3 @@
 # Segitiga-Bilangan 
-12345
+1234
 
